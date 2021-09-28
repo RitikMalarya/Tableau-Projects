@@ -2,6 +2,7 @@
 Learn Data Analytics and Data Visualization with Tableau by solving Realistic Analytics Projects
 
 1. Wipro Stock Price
+2. Airport Data Analysis
 
 
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
@@ -12,6 +13,11 @@ https://public.tableau.com/app/profile/ritik.malarya4500
 1. Wipro Stock Price Dashboard
   
 ![WIPRO STOCK PRICE DASH BOARD (1)](https://user-images.githubusercontent.com/65644535/134008388-d2cc4e07-135f-4510-9236-d247c4b5f201.png)
+  
+2. Airport Data Analysis Dashboard
+ 
+ ![Dashboard 1](https://user-images.githubusercontent.com/65644535/135041569-3b3f8235-0d74-4891-994f-a882839f52f3.png)
+
 
 # What I Learnt in Tableau :
   
